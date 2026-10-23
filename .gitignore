@@ -1,0 +1,10 @@
+# Registry documents are not redistributed (see raw_data/README.md)
+raw_data/**
+!raw_data/README.md
+
+# Working copies written by MC_simulation.ipynb
+methodology_data_MC_*.xlsx
+
+.ipynb_checkpoints/
+__pycache__/
+~$*.xlsx

@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+type: software
+title: "Biogas Carbon Offsetting: Uncertainty and Overcrediting Analysis"
+abstract: >-
+  Data and code accompanying the ETH Zurich master's thesis "Determining Uncertainties and
+  Overcrediting in Biogas-based Carbon Offsetting Projects". The repository contains a manually
+  transcribed dataset of emission reduction parameters for 13 household biogas projects registered
+  under the CDM and the Gold Standard (AMS-I.E, AMS-III.R, GS TPDDTEC), literature reviews on fNRB
+  and digester functionality, and Monte Carlo notebooks that estimate overcrediting.
+authors:
+  - family-names: Walker
+    given-names: Lukas
+    affiliation: ETH Zurich
+  - family-names: Boyd Williams
+    given-names: Natalie
+    affiliation: "ETH Zurich, Global Health Engineering"
+    orcid: "https://orcid.org/0000-0002-7409-2863"
+repository-code: "https://github.com/Global-Health-Engineering/biogasoffset"
+license: CC-BY-4.0
+version: 1.0.0
+date-released: "2026-10-23"
+keywords:
+  - carbon credits
+  - carbon offsetting
+  - overcrediting
+  - household biogas
+  - Clean Development Mechanism
+  - Gold Standard
+  - Monte Carlo
+references:
+  - type: thesis
+    title: "Determining Uncertainties and Overcrediting in Biogas-based Carbon Offsetting Projects"
+    authors:
+      - family-names: Walker
+        given-names: Lukas
+    thesis-type: "MSc Thesis"
+    institution:
+      name: ETH Zurich
+    year: 2025
+    month: 5
