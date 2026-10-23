@@ -1,5 +1,8 @@
 # Biogas Carbon Offsetting: Uncertainty and Overcrediting Analysis
 
+[![DOI](badges/doi.svg)](https://doi.org/10.5281/zenodo.23592846)
+[![License: CC BY 4.0](badges/license.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 This repository accompanies the master's thesis *"Determining Uncertainties and Overcrediting in Biogas-based Carbon Offsetting Projects"* by Lukas Walker (ETH Zurich, 2025). It contains the dataset, the data analysis scripts and the simulations used to evaluate emission reduction calculations in household biogas offset projects under different carbon crediting methodologies.
 
 ## Disclaimer
@@ -58,7 +61,7 @@ Please cite this repository as:
 
 > Walker, L., & Boyd Williams, N. (2026). *Biogas Carbon Offsetting: Uncertainty and Overcrediting Analysis* (Version 1.0.0) [Data and code]. Zenodo. https://doi.org/10.5281/zenodo.23592847
 
-The citation metadata is in [`CITATION.cff`](CITATION.cff) (GitHub shows it under "Cite this repository"). The analysis is described in the thesis:
+The citation metadata is in [`CITATION.cff`](CITATION.cff). The analysis of this work is described in the thesis:
 
 > Walker, L. (2025). *Determining Uncertainties and Overcrediting in Biogas-based Carbon Offsetting Projects* (MSc thesis). ETH Zurich.
 
