@@ -25,8 +25,8 @@ GS10812 is at `projects/details/2769`.
 | `CDM_9572` | CDM PoA 9572 | Nepal Biogas Support Program-PoA | NP | [CDM](https://cdm.unfccc.int/ProgrammeOfActivities/poa_db/7BSCYZMH2U05TWXFJKELND18PRQ96O/view), [issuance](https://cdm.unfccc.int/PoAIssuance/iss_db/poaiss339237849/view) |
 | `VCM_GS4265` | Gold Standard GS4265 | WWF Biogas Nepal II | NP | [GS](https://registry.goldstandard.org/projects/details/730) |
 | `VCM_GS10710` | Gold Standard GS10710 (PoA GS10655) | Promotion of clean cooking solutions in rural India by Infosys, VPA 1 | IN | [GS](https://registry.goldstandard.org/projects/details/2668) |
-| `VCM_GS10812` | Gold Standard GS10812 | Biogas Support Program - Nepal Activity-3 | NP | [GS](https://registry.goldstandard.org/projects/details/2769) |
-| `VCM_GS10813` | Gold Standard GS10813 | Biogas Support Program - Nepal Activity-4 | NP | [GS](https://registry.goldstandard.org/projects/details/2770) |
+| `VCM_GS10812` | Gold Standard GS10812 | same project as `CDM_5415` | NP | [GS](https://registry.goldstandard.org/projects/details/2769) |
+| `VCM_GS10813` | Gold Standard GS10813 | same project as `CDM_5416` | NP | [GS](https://registry.goldstandard.org/projects/details/2770) |
 | `VCM_GS11394 (INCOMPLETE)` | Gold Standard GS11394 | India Dairy Biogas Program | IN | [GS](https://registry.goldstandard.org/projects/details/3415) |
 | `VCM_GS11568` | Gold Standard GS11568 | Biodigesters program for a low-carbon livestock sector in Vietnam (BioLive) | VN | [GS](https://registry.goldstandard.org/projects/details/3660) |
 | `VCM_GS11722` | Gold Standard GS11722 (PoA GS10655) | Promotion of clean cooking solutions in rural India by Infosys, VPA 2 | IN | [GS](https://registry.goldstandard.org/projects/details/3853) |
@@ -36,8 +36,8 @@ The full list of screened projects, with the reason each was included or exclude
 
 ## Notes on individual projects
 
-- `CDM_2898` / `VCM_GS1239`: the CDM PoA 2898 is also registered with the Gold Standard under PoA
-  GS1239.
+- Three projects are registered with both the CDM and the Gold Standard: CDM PoA 2898 / GS1239,
+  CDM 5415 / GS10812 and CDM 5416 / GS10813. The 14 folders therefore cover 11 projects.
 - `VCM_GS1239`: the documents for monitoring periods 9 and 10 were missing from the Gold Standard
   registry, and Gold Standard staff could not provide them. The issued VER numbers were available,
   and the values for MP9 and MP10 were interpolated from MP8 and MP11.
