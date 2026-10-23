@@ -13,7 +13,7 @@ The thesis investigates the accuracy and transparency of carbon credits generate
 - **Estimating uncertainty** in key input parameters,
 - **Recommending improvements** for credit verification processes.
 
-It draws on a manually reconstructed dataset of 13 household biogas projects (14 registry entries, as one project is registered with both the CDM and the Gold Standard) in China, India, Nepal and Vietnam, using three methodologies:
+It draws on a manually reconstructed dataset of 11 household biogas projects (14 registry entries, as three projects are registered with both the CDM and the Gold Standard: CDM 2898 / GS1239, CDM 5415 / GS10812 and CDM 5416 / GS10813) in China, India, Nepal and Vietnam, using three methodologies:
 - CDM AMS-I.E
 - CDM AMS-III.R
 - Gold Standard TPDDTEC
@@ -54,7 +54,11 @@ The code was written for the thesis and is published as it was used, apart from 
 
 ## How to cite
 
-Please cite this repository using the metadata in [`CITATION.cff`](CITATION.cff) (GitHub shows it under "Cite this repository"), and the thesis:
+Please cite this repository as:
+
+> Walker, L., & Boyd Williams, N. (2026). *Biogas Carbon Offsetting: Uncertainty and Overcrediting Analysis* (Version 1.0.0) [Data and code]. Zenodo. https://doi.org/10.5281/zenodo.23592847
+
+The citation metadata is in [`CITATION.cff`](CITATION.cff) (GitHub shows it under "Cite this repository"). The analysis is described in the thesis:
 
 > Walker, L. (2025). *Determining Uncertainties and Overcrediting in Biogas-based Carbon Offsetting Projects* (MSc thesis). ETH Zurich.
 
