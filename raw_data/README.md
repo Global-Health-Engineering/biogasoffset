@@ -11,6 +11,9 @@ one subfolder per project, named as in the table, and prefix each file with its 
 `MP<n>_<original file name>` (e.g. `MP3_...xlsx`). The number `<n>` matches the `monitoring_period`
 variable in `methodology_data.xlsx`. PDFs are ignored by the extraction notebooks.
 
+Gold Standard registry URLs use the registry's internal record number, not the GS ID: for example,
+GS10812 is at `projects/details/2769`.
+
 | Folder | Registry | Project | Country | Registry page |
 |---|---|---|---|---|
 | `CDM_2898` | CDM PoA 2898 | Sichuan Rural Poor-Household Biogas Development Programme, CPA SCHHBG-2010-01 | CN | [CDM](https://cdm.unfccc.int/ProgrammeOfActivities/poa_db/5BGM96VOK3ATN4JPR70XSWIQ8CZH2F/view?cp=1) |
